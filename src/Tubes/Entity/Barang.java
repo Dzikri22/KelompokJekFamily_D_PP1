@@ -31,7 +31,7 @@ public class Barang {
 	public void setHarga(String harga) {
 		this.harga = harga;
 	}
-
+ 
 
 	public String toString() { 
 		return "Nama Kue: " +nama_barang+"     Keterangan Kue: " +keterangan_kue+"     Harga: " +harga;
